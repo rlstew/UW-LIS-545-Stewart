@@ -1,0 +1,30 @@
+<resource xsi:schemaLocation="http://datacite.org/schema/kernel-4 http://schema.datacite.org/meta/kernel-4/metadata.xsd">
+	<identifier>4469bbf9-c98b-47e6-b0f1-bbd38ab9d0e0</identifier>
+	<creators> 
+		<creator>
+			<creatorName nameType="Organizational">National Center for Education Statistics (NCES)</creatorName>
+			<nameIdentifier nameIdentifierScheme="ROR" schemeURI="https://ror.org">https://ror.org/043kfff89</nameIdentifier>
+		</creator> 
+	<creators>	
+	<titles>
+		<title xml:lang="en">School Neighborhood Poverty Estimates - 2018-2019</title>
+	</titles>
+	<publisher xml:lang="en" publisherIdentifier="https://ror.org/021adze67" publisherIdentifierScheme="ROR" schemeURI="https://ror.org/">United States Department of Education</publisher>
+	<publicationYear>2022</publicationYear>
+	<resourceType resourceTypeGeneral="Dataset">Educational statistics data</resourceType>
+	<dates>
+		<date dateType="Collected">2018/2019</date>
+		<date dateType="Issued">2022</date>
+		<date dateType="Updated">2023</date>
+	</dates>
+	<language>en</language>
+	<relatedIdentifiers>
+		<relatedIdentifier relatedIdentifierType="URL" relationType="IsSourceOf" resourceTypeGeneral="Dataset">https://catalog.data.gov/dataset/school-neighborhood-poverty-estimates-current-c7e05</relatedIdentifier>
+	</relatedIdentifiers>
+	<rightsList>
+		<rights xml:lang="en" schemeURI="https://spdx.org/licenses/" rightsIdentifierScheme="SPDX" rightsIdentifier="CC-PDDC" rightsURI="https://spdx.org/licenses/CC-PDDC.html">Creative Commons Public Domain Dedication and Certification</rights>
+	</rightsList>
+	<descriptions>
+		<description xml:lang="en" descriptionType="Abstract">The 2018-2019 School Neighborhood Poverty Estimates are based on school locations from the 2018-2019 Common Core of Data (CCD) school file and income data from families with children ages 5 to 18 in the U.S. Census Bureau's 2015-2019 American Community Survey (ACS) 5-year collection. The ACS is a continuous household survey that collects social, demographic, economic, and housing information from the population in the United States each month. The Census Bureau calculates the income-to-poverty ratio (IPR) based on money income reported for families relative to the poverty thresholds, which are determined based on the family size and structure. Noncash benefits (such as food stamps and housing subsidies) are excluded, as are capital gains and losses. The IPR is the percentage of family income that is above or below the federal poverty level. The IPR indicator ranges from 0 to a top-coded value of 999. A family with income at the poverty threshold has an IPR value of 100. The estimates in this file reflect the IPR for the neighborhoods around schools which may be different from the neighborhood conditions of students enrolled in schools. For more information about School Neighborhood Poverty Estimates, see https://nces.ed.gov/programs/edge/Economic/NeighborhoodPoverty.</description>
+	</descriptions>
+</resource>
